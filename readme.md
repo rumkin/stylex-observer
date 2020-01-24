@@ -68,7 +68,7 @@ const observer = new Observer({
       case 'dark':
         return {prefersColorScheme: 'dark'}
       case 'light':
-        return {prefersColorScheme: 'dark'}
+        return {prefersColorScheme: 'light'}
       default:
         return
     }
