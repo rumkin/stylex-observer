@@ -1,6 +1,6 @@
 {
   "name": "@stylex/observer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Observe missing css classes and generate it according rules on the fly.",
   "main": "src/index.js",
   "scripts": {

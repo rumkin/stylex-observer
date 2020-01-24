@@ -18,7 +18,7 @@ For example `bg-green:hover?md`, could be used like this:
 And transformed into this:
 
 ```css
-@media (min-size: 421px) and (max-size: 720px) {
+@media (min-width: 421px) and (max-width: 720px) {
   .bg-green\:hover\?md {
     background-color: green;
   }
